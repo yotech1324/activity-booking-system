@@ -12,3 +12,7 @@ then run  - nodemon dev
 then test apis
  postaman api collection link -
  https://www.postman.com/yogeshsahu-7699377/workspace/activity-booking-sys-api/collection/44717298-a575bdb2-2c74-459a-bf7b-661a02ffd11d?action=share&creator=44717298
+server deployed -
+https://activity-booking-system.onrender.com/
+activities api
+https://activity-booking-system.onrender.com/api/activities
