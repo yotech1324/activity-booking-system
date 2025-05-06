@@ -1,5 +1,5 @@
 
-A simple REST API for activity booking built with Node.js, Express, and MongoDB.
+A simple REST API for activity booking system developed by yogesh using Node.js, Express, and MongoDB.
 first clone the repo
 create .env file and create following variables in it.
 PORT=5000
