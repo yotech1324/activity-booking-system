@@ -16,3 +16,4 @@ server deployed -
 https://activity-booking-system.onrender.com/
 activities api
 https://activity-booking-system.onrender.com/api/activities
+please replace the apis domain in postmann with deployed link 
